@@ -43,19 +43,34 @@
       <div class="hero-unit">
         <div>
           <h1>
-            Welcome to Your Local Clubs!
+            Clubs Main Menu
           </h1>
           <p>
-            To get started, we need to enter a goal for what we want to exercise for
-            today.
+            Please select from the following options:
           </p>
         </div>
-        <a class="btn btn-primary" href="clubsMainMenu.html">
-          For Clubs »
+        <a class="btn btn-primary" href="addGoal.html">
+          Lessons Time Table »
         </a>
         
         <a class="btn btn-primary" href="addMinutes.html">
-          For Parents »
+          Manage times »
+        </a>
+        <br/>
+        <a class="btn btn-primary" href="addGoal.html">
+          Manage children »
+        </a>
+        
+        <a class="btn btn-primary" href="addMinutes.html">
+          Manage Club Shop »
+        </a>
+         <br/>
+        <a class="btn btn-primary" href="addGoal.html">
+          Payments »
+        </a>
+        
+        <a class="btn btn-primary" href="addMinutes.html">
+          Orders »
         </a>
       </div>
       <div>

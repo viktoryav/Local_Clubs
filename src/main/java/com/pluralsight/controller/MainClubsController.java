@@ -18,18 +18,15 @@ import com.pluralsight.service.GoalService;
 
 @Controller
 @SessionAttributes("goal")
-public class GoalController {
+public class MainClubsController {
 	
 	@Autowired
 	private GoalService goalService;
 	
-	@RequestMapping(value = "addGoal", method = RequestMethod.GET)
+	@RequestMapping(value = "clubsMainMenu", method = RequestMethod.GET)
 	public String addGoal(Model model) {
-		Goal goal = new Goal();
-		goal.setMinutes(10);
-		model.addAttribute("goal", goal);
 		
-		return "addGoal";
+		return "clubsMainMenu";
 	}
 	
 	@RequestMapping(value = "addGoal", method = RequestMethod.POST)
