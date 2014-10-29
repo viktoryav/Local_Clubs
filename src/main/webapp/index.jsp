@@ -43,7 +43,7 @@
       <div class="hero-unit">
         <div>
           <h1>
-            Welcome to Fitness Tracker!
+            Welcome to Your Local Clubs!
           </h1>
           <p>
             To get started, we need to enter a goal for what we want to exercise for
@@ -51,11 +51,11 @@
           </p>
         </div>
         <a class="btn btn-primary" href="addGoal.html">
-          Add Goal »
+          For Clubs »
         </a>
         
         <a class="btn btn-primary" href="addMinutes.html">
-          Add Exercise Minutes »
+          For Parents »
         </a>
       </div>
       <div>
