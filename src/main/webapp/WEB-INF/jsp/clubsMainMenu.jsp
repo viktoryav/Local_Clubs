@@ -57,7 +57,7 @@
           Manage times »
         </a>
         <br/>
-        <a class="btn btn-primary" href="addGoal.html">
+        <a class="btn btn-primary" href="children.html">
           Manage children »
         </a>
         
